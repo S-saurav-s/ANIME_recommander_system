@@ -110,7 +110,7 @@ HUGGINGFACEHUB_API_TOKEN=your_huggingface_token
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/data-guru0/TESTING-9.git
+git clone https://github.com/S-saurav-s/TESTING-9.git
 cd TESTING-9
 
 # 2. Install dependencies
